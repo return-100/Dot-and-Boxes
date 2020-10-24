@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1391970930 source:c:\documents and settings\administrator\desktop\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1456757719 c:\documents and settings\administrator\desktop\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1457313346 source:c:\documents and settings\administrator\desktop\copy of myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108167 c:\documents and settings\administrator\desktop\copy of myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1457313346 source:c:\documents and settings\administrator\desktop\copy of myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1462159437 source:c:\users\user\desktop\new folder\copy of myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108167 c:\users\user\desktop\new folder\copy of myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462159751 source:c:\users\user\desktop\new folder\copy of myigraphics\balldemo.cpp
+	"iGraphics.h"
+
+1462159787 source:c:\users\user\desktop\new folder\copy of myigraphics\mousedemo.cpp
+	"iGraphics.h"
+
+1462159912 source:c:\users\user\desktop\new folder\copy of myigraphics\textinputdemo.cpp
+	"iGraphics.h"
+
+1457313346 source:c:\users\user\desktop\new folder\copy of myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1457313346 source:c:\users\user\desktop\new folder\copy of myigraphics\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1462160910 source:c:\users\user\desktop\igraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1462108167 c:\users\user\desktop\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464066635 source:c:\users\abdur rouf\desktop\igraphics\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108168 c:\users\abdur rouf\desktop\igraphics\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464066635 source:c:\users\imran\downloads\compressed\igraphics_4\igraphics\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108168 c:\users\imran\downloads\compressed\igraphics_4\igraphics\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464104761 source:c:\users\imran\desktop\igraphics_4\igraphics\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108168 c:\users\imran\desktop\igraphics_4\igraphics\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465231955 source:c:\users\imran\desktop\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+
+1462108168 c:\users\imran\desktop\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465250751 source:c:\users\imran\desktop\files\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+
+1462889172 c:\users\imran\desktop\files\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465272008 source:i:\documents\class_assingment\files\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+
+1462889172 i:\documents\class_assingment\files\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465277480 source:c:\users\abdur rouf\desktop\class_assingment\files\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+
+1462889172 c:\users\abdur rouf\desktop\class_assingment\files\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465284448 source:c:\users\abdur rouf\desktop\game\igraphics\files\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+
+1462889172 c:\users\abdur rouf\desktop\game\igraphics\files\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465406329 source:c:\users\imran\desktop\gameraw version 1.2\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462889172 c:\users\imran\desktop\gameraw version 1.2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465434372 source:c:\users\imran\desktop\gameraw version 1.3\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462889172 c:\users\imran\desktop\gameraw version 1.3\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465450272 source:i:\documents\game\gameraw version 1.3\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462889172 i:\documents\game\gameraw version 1.3\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465450274 source:c:\users\user\desktop\old course\cse102_structured programming language sessional\dot and boxes game\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462889172 c:\users\user\desktop\old course\cse102_structured programming language sessional\dot and boxes game\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
